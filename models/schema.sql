@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS pug_db;
+CREATE DATABASE pug_db;
+
